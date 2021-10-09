@@ -1,5 +1,5 @@
 # Statistics
-Sprint 6 - Task 1 IT Academy
+Sprint 7 - Task 1 IT Academy
 
 Learn how to perform statistics with Python.
 
